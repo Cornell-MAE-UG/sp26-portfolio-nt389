@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker
 description: Design of a Nutcracker
 technologies: 
-image: /assets/images/radio-machine-cad.jpg
+image: /Users/natalietauras/Downloads/Macadamia nut question.pdf
 ---
 
 For a class, we were asked to design a macadameia nut cracker 
